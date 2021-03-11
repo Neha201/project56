@@ -1,0 +1,20 @@
+body{
+    background-color: azure;
+    text-align: center;
+}
+img{
+    height:400px;
+    width:410px;
+}
+p{
+    width:410px
+ text-align: center;
+}
+.sectionstyle{
+background-color:cyan;    
+}
+.sectionstyle1{
+    background-color:aquamarine;
+}
+
+
